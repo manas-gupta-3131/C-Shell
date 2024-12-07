@@ -1,6 +1,5 @@
 
-# Simple Shell 🐚
-![plot](images/imageshell.png)
+# Simple C-Shell 🐚
 
 ## Files
 
