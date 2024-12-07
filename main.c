@@ -1,3 +1,7 @@
+// Stage two implementation In this stage, you'll implement support for handling invalid commands in your shell.\
+// Example:
+// $ invalid_command
+// invalid_command: not found
 #include <stdio.h>
 #include <string.h>
 int main() {
